@@ -1,1 +1,5 @@
 *.js linguist-detectable=false
+git add .
+git commit -m "Change repository language to Python"
+*.py linguist-detectable=true
+*.html linguist-detectable=false
