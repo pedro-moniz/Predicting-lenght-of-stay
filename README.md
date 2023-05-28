@@ -2,4 +2,4 @@
 
 Access the code to predict LOS with 5 features here https://pedromoniz-ds.github.io/Predicting-lenght-of-stay/Predicting%20LOS%20with%205%20features.html
 
-Access the code to predict LOS with 7 features here 
+Access the code to predict LOS with 7 features here https://pedro-moniz.github.io/Predicting-lenght-of-stay/Predicting%20LOS%20with%207%20features.html
